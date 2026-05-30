@@ -1,0 +1,13 @@
+# Configurações locais do Claude Code
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências (caso a Fase 2 use build tools)
+node_modules/
